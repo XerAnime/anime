@@ -14,7 +14,7 @@ const Navbar = () => {
     >
       <div className='container container-fluid'>
         <a className='navbar-brand m-2 h1' href='/'>
-          AniPlayer
+          ANIME
         </a>
         <button
           className='navbar-toggler'
@@ -33,7 +33,7 @@ const Navbar = () => {
         >
           <ul className='navbar-nav me-auto mb-2 mb-lg-0' role='menu'>
             <li className='nav-item'>
-              <Link to='/' className='nav-link li-b' aria-current='page'>
+              <Link to='https://xerflix0.pages.dev/' className='nav-link li-b' aria-current='page'>
                 Home
               </Link>
             </li>
