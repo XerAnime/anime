@@ -1,0 +1,42 @@
+.li-a:focus,
+.li-a:hover {
+  color: white !important;
+  text-decoration: none;
+}
+
+.li-b:focus,
+.li-b:hover {
+  color: white !important;
+  text-decoration: none;
+}
+
+.li-c:focus,
+.li-c:hover {
+  background-color: darkgrey !important;
+  text-decoration: none;
+}
+
+.li-d:focus,
+.li-d:hover {
+  color: white !important;
+  text-decoration: none;
+}
+
+.a-card {
+  transition: 0.25s;
+}
+
+.a-card:focus,
+.a-card:hover {
+  text-decoration: none;
+  transform: scale(1.1);
+}
+
+.dropdown-menu {
+  max-height: 400px;
+  overflow-y: scroll;
+}
+
+.t-hover:hover {
+  opacity: 100% !important;
+}
