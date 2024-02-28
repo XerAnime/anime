@@ -23,7 +23,7 @@ const Home = () => {
     <div className='container'>
       <div className='p-5'>
         <h2 className='text-center lh-lg font-monospace fw-bold'>
-          AniPlayer - Anime Player Website
+          ANIME
         </h2>
         <p className='text-center lh-lg fs-5'>
           Find and discover countless of anime shows to watch!
